@@ -29,6 +29,6 @@
   
  Nói tóm lại, Smart Mobile hiện nay không thể thay thế hoàn toàn được vai trò của PC nhưng nó đã chiếm được một mức độ khá lớn trong tổng số người sử dụng, trên đà phát triển, Smart Mobile có thể đạt tới trình độ so với PC, thậm chí còn vượt xa hơn. Nếu nói Smart Moblie là cây con đang mọc, thì PC đã trở thành cây đại thụ khó lật đổ, nhưng đồng thời nó đã đạt đến một ngưỡng nhất định và đang chậm phát triển dần.  
  
- Em chọn Smart Mobile, vì hiện tại nó đang là lĩnh vực có khả năng phát triển, chưa có quá nhiều đột phá. Nếu trong tương lai Smart Mobile có thể khắc phục được vấn đề 'sức mạnh' thì lĩnh vực này còn có thể đạt được sự thành công là không thể phủ nhận.
+- Em chọn Smart Mobile, vì hiện tại nó đang là lĩnh vực có khả năng phát triển, chưa có quá nhiều đột phá. Nếu trong tương lai Smart Mobile có thể khắc phục được vấn đề 'sức mạnh' thì lĩnh vực này còn có thể đạt được sự thành công là không thể phủ nhận.
   
 
