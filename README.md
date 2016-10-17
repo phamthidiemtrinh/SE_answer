@@ -19,5 +19,12 @@
 - Dĩ nhiên, học là để có việc làm, nếu nói học chỉ để thỏa mãn sở thích của bản thân là nói dối, không có gì hạnh phúc hơn là tự chủ được tài chính của bản thân. Vừa vui vẻ làm việc, vừa kím được nguồn tài chính thì rất ok rồi.  
 ### Chọn Pc hay Smart Mobile?
 - Theo tham khảo từ nhiều nguồn, tình hình PC và Smart Mobile hiện tại như sau:
-  *
+  * Hiện nay rất nhiều Website đã chú trọng tới giao diện Mobile, nghĩa là người sử dụng dần ưa thích tvà thường xuyên dùng các thiết bị gọn nhẹ và dễ dàng mang ra sử dụng hơn.
+  * Tuy nhiên nhiều công cụ và thành phần app lại biến mất trên phiên bản Mobile.
+  * Mặt khác PC hoàn toàn thắng về mặt sức mạnh phần cứng so với smart mobile : Các chíp của Smartphone đều có tốc độ ngang ngửa với các chíp của PC nhưng có cấu trúc khác hoàn toàn, do đó nó không có hiệu suất cao như PC.
+  * Nhưng người sử dụng bình thường (chiếm phần lớn) đều ưa thích smart moblie hơn do tích hợp được nhiều tính năng, dễ sử dụng, dễ mang theo bên người,phù hợp với mọi độ tuổi và nghề nghiệp.
+  * Bên cạnh đó, nhân viên văn phòng, người làm IT, game thủ, ... vẫn luôn luôn có nhu cầu sử dụng PC, họ không cần những tính năng đòi hỏi tính di động cao, cái họ cần là tốc độ nhanh, bảo mật tốt.
+ Nói tóm lại, Smart Mobile hiện nay không thể thay thế hoàn toàn được vai trò của PC nhưng nó đã chiếm được một mức độ khá lớn trong tổng số người sử dụng, trên đà phát triển, Smart Mobile có thể đạt tới trình độ so với PC, thậm chí còn vượt xa hơn. Nếu nói Smart Moblie là cây con đang mọc, thì PC đã trở thành cây đại thụ khó lật đổ, nhưng đồng thời nó đã đạt đến một ngưỡng nhất định và đang chậm phát triển dần.
+ Em chọn Smart Mobile, vì hiện tại nó đang là lĩnh vực có khả năng phát triển, chưa có quá nhiều đột phá. Nếu trong tương lai Smart Mobile có thể khắc phục được vấn đề 'sức mạnh' thì lĩnh vực này còn có thể đạt được sự thành công là khôgn thể phủ nhận.
+  
 
