@@ -13,7 +13,7 @@
   * Kiểm thử: xác định, hỗ trợ và tập hợp các phản hồi từ những Tester trước khi phát hành;
   * Tham gia vào hoạt động phát hành và tiền phát hành sản phẩm phần mềm, bao gồm quảng bá công nghệ (thuyết minh tính năng hay các mẫu sản phẩm) và phân tích tính cạnh tranh cho phiên bản sản phẩm sau;
   * Bảo trì  
-  Mặc dù SE được đánh giá là một ngành 'khó nuốt' và đòi hỏi tính sáng tạo nhưng SE lại phù hợp với cái tính 'tham' muỗn biết nhiều, tự do và chủ động.
+  *Mặc dù SE được đánh giá là một ngành 'khó nuốt' và đòi hỏi tính sáng tạo nhưng SE lại phù hợp với cái tính 'tham' muỗn biết nhiều, tự do và chủ động.*
 - Học trước khi tốt nghiệp để tạo lơi thế: trong trường chắc chắn không dạy chi tiết và tạo cơ hội cho sinh viên tiếp xúc thực tế như khi đi làm được, đa phần đều nặng về vấn đề lý thuyết, mà không phải bất kỳ chuyện gì cũng có thể đem lý thuyết ra áp dụng được. Học , tiếp xúc nhiều, có kinh nghiệm thực tế là nền tảng cho dân IT nếu muốn phát triển tương lai, nếu chỉ học ở giảng đường thì khó có cơ hội biết được mức độ'tiến hóa của nhân loại'
 - Trên quan điểm cá nhân thì em rất bất mãn với mấy phần mềm tào lao hiện tại của mấy ông coder, dạo này có vẻ chỉ cần viết app là có tiền hay sao ấy, chạy trên nền android lỗi liên tục, tự nâng cấp hệ thống thiết bị của mình sau khi học SE chắc là việc đầu tiên em sẽ thực hiện.
 - Dĩ nhiên, học là để có việc làm, nếu nói học chỉ để thỏa mãn sở thích của bản thân là nói dối, không có gì hạnh phúc hơn là tự chủ được tài chính của bản thân. Vừa vui vẻ làm việc, vừa có được nguồn tài chính thì rất ok rồi. 
